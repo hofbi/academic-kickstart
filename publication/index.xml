@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Markus Hofbauer</title>
+    <link>https://hofbi.github.io/publication/</link>
+      <atom:link href="https://hofbi.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Markus Hofbauer</copyright><lastBuildDate>Sun, 19 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hofbi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://hofbi.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Pixel-Wise Failure Prediction for Semantic Video Segmentation</title>
+      <link>https://hofbi.github.io/publication/introspection_seg_video/</link>
+      <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://hofbi.github.io/publication/introspection_seg_video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Situation-Aware Model Refinement for Semantic Image Segmentation</title>
+      <link>https://hofbi.github.io/publication/model_refinement/</link>
+      <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://hofbi.github.io/publication/model_refinement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trajectory-Based Failure Prediction for Autonomous Driving</title>
+      <link>https://hofbi.github.io/publication/introspection_trajectory/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://hofbi.github.io/publication/introspection_trajectory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introspective Failure Prediction for Autonomous Driving Using Late Fusion of State and Camera Information</title>
+      <link>https://hofbi.github.io/publication/introspection_bb_fusion/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://hofbi.github.io/publication/introspection_bb_fusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Multi-View Live Video Streaming for Teledriving Using a Single Hardware Encoder</title>
+      <link>https://hofbi.github.io/publication/single_encoder/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://hofbi.github.io/publication/single_encoder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Better Look Twice - Improving Visual Scene Perception Using a Two-Stage Approach</title>
+      <link>https://hofbi.github.io/publication/blt/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://hofbi.github.io/publication/blt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring Driver Situation Awareness Using Region-of-Interest Prediction and Eye Tracking</title>
+      <link>https://hofbi.github.io/publication/driver_sa/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://hofbi.github.io/publication/driver_sa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introspective Black Box Failure Prediction for Autonomous Driving</title>
+      <link>https://hofbi.github.io/publication/introspection_bb/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://hofbi.github.io/publication/introspection_bb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TELECARLA: An Open Source Extension of the CARLA Simulator for Teleoperated Driving Research Using Off-The-Shelf Components</title>
+      <link>https://hofbi.github.io/publication/telecarla/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://hofbi.github.io/publication/telecarla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introspective Failure Prediction for Semantic Image Segmentation</title>
+      <link>https://hofbi.github.io/publication/introspection_seg/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://hofbi.github.io/publication/introspection_seg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-View Region of Interest Prediction for Autonomous Driving Using Semi-Supervised Labeling</title>
+      <link>https://hofbi.github.io/publication/mvroi/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://hofbi.github.io/publication/mvroi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teleoperation for Autonomous Driving Failures</title>
+      <link>https://hofbi.github.io/publication/coc19/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://hofbi.github.io/publication/coc19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
